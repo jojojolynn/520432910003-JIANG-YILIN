@@ -17,9 +17,9 @@
   
 运行画面截图:  
 -----------------
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.1.png)
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.2.png)
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.3.png)
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.4.png)
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.5.png)
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.6.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.1.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.2.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.3.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.4.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.5.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.6.png)
