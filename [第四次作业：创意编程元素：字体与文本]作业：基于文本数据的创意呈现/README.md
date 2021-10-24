@@ -11,8 +11,14 @@
 ✏️穿破迷雾Through the Fog
 结构设计说明：  
 -----------------
-	背景使用noise函数制造噪点，形成迷雾效果；  
-	中心的字符串旋转、收缩、加速，直到穿越迷雾、冲出画面、飞向远处；  
-	哪怕迷雾重重，都要有一颗持续跳动的心脏、勇往直前的希望，被心中的阳光引领着穿破迷惘，直到天亮  
+ - 背景使用noise函数制造噪点，形成迷雾效果；  
+ - 中心的字符串旋转、收缩、加速，直到穿越迷雾、冲出画面、飞向远处；  
+ - 哪怕迷雾重重，都要有一颗持续跳动的心脏、勇往直前的希望，被心中的阳光引领着穿破迷惘，直到天亮  
+
 运行画面截图:  
 -----------------
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/3.1.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/3.2.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/3.3.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/3.4.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/3.5.png)
