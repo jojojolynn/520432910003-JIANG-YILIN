@@ -23,3 +23,4 @@
 ![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.4.png)
 ![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.5.png)
 ![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.6.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.7.png)
