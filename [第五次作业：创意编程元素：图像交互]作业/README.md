@@ -15,7 +15,7 @@
  - ④笔刷大小调节：键盘↑↓键 变大、变小；
  - 另：随着鼠标移动速度变化，笔刷的粗细、颜色均会改变;鼠标单击按钮时，按钮会变色
   
-运行画面截图:  
+运行画面截图（7张不同笔刷种类、颜色、大小的实例）:  
 -----------------
 ![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.1.png)
 ![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.2.png)
