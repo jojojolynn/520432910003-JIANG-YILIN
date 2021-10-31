@@ -13,19 +13,12 @@
 
 ✏️a：Flowing Flowers of the Forest2 碎金森林中的流动花朵2 结构设计说明：  
 -----------------
-- 
-- 旋转缩放的花朵
-
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.1.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.2.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.3.png)
+- 虚幻诡谲的紫色背景
+- 跟随鼠标肆意生长的花朵 绽放着生命的活力
     
 运行画面截图:  
 -----------------
-
-✏️b：齿轮、花瓣与扇片 结构设计说明：  
------------------
-- 转动的水滴好似时钟齿轮，又好似花瓣与扇片
-- 流动的色彩，时刻洋溢着活力
-    
-运行画面截图:  
------------------
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.4.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.1.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.2.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.1.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.1.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.2.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.2.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.1.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.2.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.3.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.1.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/1.2.png)![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/5.4.png)
