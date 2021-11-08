@@ -27,7 +27,7 @@ https://natureofcode.com/book/chapter-4-particle-systems/ (链接到外部网站
     
 运行画面截图:  
 -----------------
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/7.3.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/7.4.png)
 
 ✏️d：茂盛生长 结构设计说明：  
 -----------------
@@ -37,4 +37,4 @@ https://natureofcode.com/book/chapter-4-particle-systems/ (链接到外部网站
     
 运行画面截图:  
 -----------------
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/7.4.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/7.3.png)
