@@ -56,6 +56,6 @@
 - 输出：按键盘‘s’或“S”保存，或点击保存键保存作品照片；录制创作视频；
 
   
-运行画面截图（7张不同笔刷种类、颜色、大小的实例）:  
+运行画面截图:  
 -----------------
-![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/4.1.png)
+![image](https://github.com/jojojolynn/520432910003-JIANG-YILIN/blob/main/img_readme/9.1.png)
